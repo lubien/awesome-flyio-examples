@@ -28,6 +28,7 @@
 - [Gitea on Fly](https://github.com/letto4135/gitea_on_fly) - Gitea is a forge software package for hosting software development version control using Git as well as other collaborative features like bug tracking, code review, continuous integration, kanban boards, tickets, and wikis.
 - [Self-Host Bitwarden on Fly.io almost for free!](https://github.com/stevefan1999-personal/bitwarden-fly-io) - This README serves as a rough guide to self-host Bitwarden on fly.io.
 - [Uploading entire directories with fly ssh console + rsync](https://community.fly.io/t/uploading-entire-directories-with-fly-ssh-console-rsync/17714) - rsync is a utility for transferring and synchronizing files between a computer and a storage drive and across networked computers by comparing the modification times and sizes of files.
+- [fly-autoscaler](https://community.fly.io/t/metrics-based-autoscaling/18420) - Scale your apps based on metrics.
 
 ## Node.js
 
