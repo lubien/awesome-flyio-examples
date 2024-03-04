@@ -35,6 +35,8 @@
 - [Uploading entire directories with fly ssh console + rsync](https://community.fly.io/t/uploading-entire-directories-with-fly-ssh-console-rsync/17714) - rsync is a utility for transferring and synchronizing files between a computer and a storage drive and across networked computers by comparing the modification times and sizes of files.
 - [fly-autoscaler](https://community.fly.io/t/metrics-based-autoscaling/18420) - Scale your apps based on metrics.
 - [FlyCD](https://flycd.dev/) - Continuous deployment platform for your fly.io apps. FlyCD automates deploying your apps via GitHub integration, giving you preview apps and deployment history, with easy rollback options.
+- [Deploying a minimal self-hosted Omnivore using Fly.io and bonsai.io
+](https://blog.omnivore.app/p/deploying-a-minimal-self-hosted-omnivore) - Run a self-hosted version of Omnivore, a free and open-source read-it-later app.
 
 ## Node.js
 
